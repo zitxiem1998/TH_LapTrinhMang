@@ -1,0 +1,13 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıï“8ú™ŞÅÑ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ÖÛø8î‡ŠÆÑ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(§Èæ8Ì•ÆÑ-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌüíÙ
+bsquid:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(öÇ†Ô8ú™ŞÅÑ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(êÓæøùÿÿÿÿ8ú™ŞÅÑ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(û—¿¨8ìûÆÑ-
